@@ -43,4 +43,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
     implementation 'org.jsoup:jsoup:1.11.1'
+    implementation 'com.arthenica:ffmpeg-kit-full:5.1'
+
 }
